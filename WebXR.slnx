@@ -1,0 +1,14 @@
+﻿<Solution>
+  <Project Path="WebXRInputProfile.csproj" />
+  <Project Path="WebXR.csproj" />
+  <Project Path="Unity.XR.Interaction.Toolkit.Samples.Hands.csproj" />
+  <Project Path="WebXR.InputSystem.csproj" />
+  <Project Path="Unity.XR.Interaction.Toolkit.Samples.StarterAssets.csproj" />
+  <Project Path="WebXR.Samples.Scripts.csproj" />
+  <Project Path="WebXR.Editor.csproj" />
+  <Project Path="Unity.XR.Hands.Samples.VisualizerSample.csproj" />
+  <Project Path="Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Editor.csproj" />
+  <Project Path="Unity.XR.Interaction.Toolkit.Samples.Hands.Editor.csproj" />
+  <Project Path="WebXR.Interactions.Samples.XRInteractionToolkit.Editor.csproj" />
+  <Project Path="WebXR.Interactions.Samples.XRInteractionToolkitBiRP.Editor.csproj" />
+</Solution>
